@@ -1,3 +1,3 @@
 # RubyNetwork
 - This is a project to recreate online game servers and for a recreation of Miiverse.
-- This project was by Omey, Thatemokiddo, cedkeChat01 and Carlos.
+- This project was by Omey, Thatemokiddo and Carlos.
